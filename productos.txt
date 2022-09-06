@@ -1,0 +1,1 @@
+[{"nombre":"Camara De Fotos","descripcion":"Eficiente el Producto","codigo":150,"foto":"url://","precio":120.99,"stock":10,"id":1,"timestapm":1654816587076}]
